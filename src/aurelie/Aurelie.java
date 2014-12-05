@@ -17,7 +17,8 @@ public class Aurelie {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hello World");
+        System.out.println("Hello Aurélie");
+        System.out.println("I love rabbit in the campus for eat his");
         Lapin lap = new Lapin("Bob", 4);
         while(i<=10){
             lap.crier();
